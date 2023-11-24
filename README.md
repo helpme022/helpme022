@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning HTML CSS JS Python, if is a mentor there please reach me out.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xaajinuur@outlook.de
+  
 
 <!---
 helpme022/helpme022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
